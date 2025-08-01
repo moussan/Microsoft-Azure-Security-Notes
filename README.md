@@ -4,6 +4,9 @@ This repository is a curated collection of security-related notes, guides, and b
 
 ## Contents
 
+- **Cloud Security Posture Management (CSPM):**  
+  In-depth overview of CSPM concepts, risk detection, technical policy, and security tools in Azure.
+
 - **Azure AD Privileged Identity Management (PIM):**  
   Overview, features, and best practices for managing privileged access in Azure AD.
 
